@@ -2,6 +2,16 @@ import { Component, OnInit } from '@angular/core';
 import { BookService } from 'src/app/services';
 import { Router, ActivatedRoute } from '@angular/router';
 
+import swal from 'sweetalert2';
+
+const Toast = swal.mixin({
+  toast: true,
+  position: 'top-end',
+  showConfirmButton: false,
+  timer: 3000,
+  timerProgressBar: true,
+})
+
 @Component({
   selector: 'app-book-list',
   templateUrl: './book-list.component.html',
@@ -18,7 +28,10 @@ export class BookListComponent implements OnInit {
   ngOnInit() {
     this.activatedRoute.data.subscribe( res => {
       if (res.error) {
-        
+        Toast.fire({
+          icon: 'error',
+          title: res.error
+        })   
       } 
       else {
         if(this.bookService.searchedBooks.length > 0) {

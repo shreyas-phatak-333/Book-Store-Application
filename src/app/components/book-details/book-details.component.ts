@@ -31,7 +31,10 @@ export class BookDetailsComponent implements OnInit {
   ngOnInit() {
     this.activatedRoute.data.subscribe( res => {
       if (res.error) {
-        
+        Toast.fire({
+          icon: 'error',
+          title: res.error
+        })   
       } 
       else {
         this.book = res.book;
