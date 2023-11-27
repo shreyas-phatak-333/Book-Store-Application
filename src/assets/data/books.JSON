@@ -1,0 +1,393 @@
+ [
+  {
+    "id": "bk_01",
+    "title": "HARRY POTTER AND THE CHAMBER OF SECRETS",
+    "author": "J.K. ROWLING",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/589/9781408855669.jpg",
+    "description": "There Is A Plot, Harry Potter. A Plot To Make Most Terrible Things Happen At Hogwarts School Of Witchcraft And Wizardry This Year. Harry Potters Summer Has Included The Worst Birthday Ever, Doomy Warnings From A House-elf Called Dobby, And Rescue From The Dursleys By His Friend Ron Weasley In A Magical Flying Car Back At Hogwarts School Of Witchcraft And Wizardry For Hi There Is A Plot, Harry Potter. A Plot To Make Most Terrible Things Happen At Hogwarts School Of Witchcraft And Wizardry This Year. Harry Potters Summer Has Included The Worst Birthday Ever, Doomy Warnings From A House-elf Called Dobby, And Rescue From The Dursleys By His Friend Ron Weasley In A Magical Flying Car Back At Hogwarts School Of Witchcraft And Wizardry For His Second Year, Harry Hears Strange Whispers Echo Through Empty Corridors - And Then The Attacks Start. Students Are Found As Though Turned To Stone... Dobbys Sinister Predictions Seem To Be Coming True.",
+    "language": "ENGLISH",
+    "category": "fantasy",
+    "binding": "PAPERBACK",
+    "isbn13": "9781408855669",
+    "isbn10": "1408855669",
+    "Publisher": "Bloomsbury Academic",
+    "publishedDate": "2001-03-14",
+    "Pages": 256,
+    "height": "198 mm",
+    "width": "129 mm",
+    "mrp": 235,
+    "ratings": 5.0,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_02",
+    "title": "GULLIVERS TRAVELS",
+    "author": "JONATHAN SWIFT",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/573/9780140430226.jpg",
+    "description": "Gullivers Travels is Jonathan Swifts satiric masterpiece, the fantastic tale of the four voyages of Lemuel Gulliver, an English ships surgeon. First, he is shipwrecked in the land of Lilliput, where the alarmed residents are only six inches tall. His second voyage takes him to the land of Brobdingnag, where the people are sixty feet tall. Further adventures bring Gulliv Gullivers Travels is Jonathan Swifts satiric masterpiece, the fantastic tale of the four voyages of Lemuel Gulliver, an English ships surgeon. First, he is shipwrecked in the land of Lilliput, where the alarmed residents are only six inches tall. His second voyage takes him to the land of Brobdingnag, where the people are sixty feet tall. Further adventures bring Gulliver to an island that floats in the sky, and a land where horses are endowed with reason and beasts are shaped like men. Read by children as an adventure story and by adults as a devastating satire of society, Gullivers Travels remains a fascinating blend of travelogue, realism, symbolism, and fantastic voyage all with a serious philosophical content.",
+    "language": "ENGLISH",
+    "category": "travels",
+    "binding": "PAPERBACK",
+    "isbn13": "9780140430226",
+    "isbn10": "#0140430229",
+    "Publisher": "Penguin Books",
+    "publishedDate": "2001-03-21",
+    "Pages": 200,
+    "height": "176 mm",
+    "width": "110 mm",
+    "mrp": 160,
+    "ratings": 4.0,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_03",
+    "title": "INVENTIONS & DISCOVERIES - MEDICAL INVENTIONS: KNOWLEDGE ENCYCLOPEDIA FOR CHILDREN",
+    "author": "Wonder House Books",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9789390391196.jpg",
+    "description": "What Causes Diseases And Illnesses How Did The Doctors Diagnose And Observe Patients When There Were No Thermometers And Stethoscopes What Is A CT Scan And Who Developed It This Encyclopedia Will Answer These And More Hows And Whats For You. Learning Is Made Simpler With Well-labelled Diagrams And An Extensive Glossary Of Difficult Words. Bonus: The Book Comes Loaded With Isn't It Amazing Section Of Fun Facts To Keep You Glued For More.",
+    "language": "ENGLISH",
+    "category": "Literature",
+    "binding": "PAPERBACK",
+    "isbn13": "9789390391196",
+    "isbn10": "9390391196",
+    "Publisher": "Wonder House Books",
+    "publishedDate": "2001-03-03",
+    "Pages": 145,
+    "height": "180 mm",
+    "width": "120 mm",
+    "mrp": 163,
+    "ratings": 4.5,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_04",
+    "title": "THE FRAGILE THREAD OF HOPE",
+    "author": "PANKAJ GIRI",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/762/9789389567205.jpg",
+    "description": "Pankaj Giri was born and brought up in Gangtok, Sikkim—a picturesque hill station in India. He began his writing career with a book review blog and after several years of honing his writing skills, he wrote his debut solo novel The Fragile Thread of Hope. The inspirational fiction novel was selected as a “Top 5 Finalist” in the Amazon Pen to Publish Contest 2017 and received critical acclaim worldwide. It also led to him being felicitated by Sikkim Manipal University for his contribution to the literature of Sikkim and being invited by popular website YourStory.com and ABN TV, India’s first Nepali satellite channel, for exclusive interviews. He is currently working in the government sector in Sikkim. He likes to kill time listening to progressive metal music and watching movies and sitcoms. Pankaj loves interacting with his readers via social media and always responds promptly.",
+    "language": "ENGLISH",
+    "category": "Romance",
+    "binding": "PAPERBACK",
+    "isbn13": "9789389567205",
+    "isbn10": "9789389567205",
+    "Publisher": "Fingerprint! Publishing",
+    "publishedDate": "2001-03-28",
+    "Pages": 320,
+    "height": "200 mm",
+    "width": "192 mm",
+    "mrp": 200,
+    "ratings": 3.0,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_05",
+    "title": "MEIN KAMPF (DELUXE HARDBOUND EDITION)",
+    "author": "ADOLF HITLER",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9789389053005.jpeg",
+    "description": "About The Book: Mein Kampf (Deluxe Hardbound Edition) Mein Kampf, The Autobiography Of Adolf Hitler, Provides A Peek Into The Mind Of A Man Who Single-handedly Managed To Change The Course Of History, Wounding The Psyche Of A People For Generations To Come And Marring The Memories Of A Race For All Of Time. This Elegant Hardbound Edition Comes With A Goldfoiled Cover, Gilded Edges, And Beautiful Endpapers. A Historically Relevant Book That Gives Excellent Insight Into The Maniacal Ideologies And Visions With Which Hitler Shook The World, Mein Kampf Is An Exploration Of The Holocaust From The Other Side Of The Genocide, From Hitlers Perspective.",
+    "language": "ENGLISH",
+    "category": "Crime and Mystery",
+    "binding": "PAPERBACK",
+    "isbn13": "9789389053005",
+    "isbn10": "9389053005",
+    "Publisher": "Fingerprint Publishing",
+    "publishedDate": "2001-03-01",
+    "Pages": 220,
+    "height": "180 mm",
+    "width": " 165 mm",
+    "mrp": 613,
+    "ratings": 2.0,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_06",
+    "title": "SIMLA THE SUMMER CAPITAL OF BRITISH INDIA",
+    "author": "RAAJA BHASIN",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9788129117687.webp",
+    "description": "The Summer Capital Of The Raj, Simla Came To Be Known As \"the Workshop Of The Empire\". A Visitor Awed By This Hill-town Wrote, \"Every Pigeonhole Contains A Potential Revolution, Every Office Box Cradles An Embryo Of War Or Death\". The Heady Mixture Of Mountain Air, Political Power And Social Snobbery Attracted All Manner Of People To Simla: Ambitious Careerists, Calculating Matrons, Enigmatic Adventuresses, Bored Wives And Dashing Roues, Often With Disastrous Results. A Letter Home Lamented \"the Pure Atmosphere And Foul Rumours, Ruined Prospects, Guilty Passions, Frivolity, Intrigue Jealousy, Madness Remorse Unmitigated\"",
+    "language": "ENGLISH",
+    "category": "educational",
+    "binding": "PAPERBACK",
+    "isbn13": "9788129117687",
+    "isbn10": "8129117687",
+    "Publisher": "Rupa Publications India",
+    "publishedDate": "2001-03-07",
+    "Pages": 488,
+    "height": "180 mm",
+    "width": " 165 mm",
+    "mrp": 500,
+    "ratings": 3.8,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_07",
+    "title": "LEONARDO: THE COMPLETE PAINTINGS AND DRAWINGS: 1452-1519",
+    "author": "FRANK ZOLLNER",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9783836585972_16692879380.jpg",
+    "description": "Unmatched In His Ingenuity, Technical Prowess, And Curiosity, Leonardo Da Vinci (1452–1519) Epitomizes The Humanistic Ideal Of The Renaissance Man: A Peerless Master Of Painting, Sculpture, Cartography, Anatomy, Architecture – And More. Simultaneously Captivating Art Historians, Collectors, And The Millions Who Flock Yearly To Admire His Works, Leonardo’s Appeal Is As Diffuse As Were His Preoccupations. His Images Permeate Nearly Every Facet Of Western Culture – The Vitruvian Man Is Engraved Into Millions Of Euro Coins, The Last Supper Is Considered The Single Most Reproduced Religious Painting In History, And The Mona Lisa Has Entranced Countless Artists And Observers For Centuries. This Updated Edition Of Our XL Monograph Is An Unrivaled Survey Of Leonardo’s Life And Work, Including A Catalogue Raisonné Of All Paintings. Through Stunning Full-bleed Details, We Experience Every Measured Brushstroke, Each A Testament To Leonardo’s Masterful Ability. An Expansive Catalog Of Nearly 700 Of Leonardo's Drawings Further Illuminates The Breadth Of His Pursuits. From Diagrams Of Intricately Engineered Machines To Portraits Of Plump Infants, They Stand Reflective Of His Boundless And Visionary Technical Imagination, Balanced With A Subtle And Perceptive Hand, Capable Of Rendering Quotidian Moments With Moving Emotional Timbre. For The New Edition, Frank Zöllner Has Written A New Preface In Which He Considers The Latest Scholarly Findings On Leonardo’s Oeuvre And Takes A Critical Look At The Much-discussed Painting Christ As Salvator Mundi, Sold At Auction For The Record Sum Of Around 400 Million Euros. Numerous Illustrations Have Been Replaced By New Photographs.",
+    "language": "ENGLISH",
+    "category": "Biography",
+    "binding": "PAPERBACK",
+    "isbn13": "9783836585972",
+    "isbn10": "3836585972",
+    "Publisher": "Taschen America Llc",
+    "publishedDate": "2001-03-06",
+    "Pages": 711,
+    "height": "194 mm",
+    "width": " 170 mm",
+    "mrp": 18800,
+    "ratings": 3.0,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  },
+  {
+    "id": "bk_08",
+    "title": "THE HAPPIEST MAN ON EARTH: THE BEAUTIFUL LIFE OF AN AUSCHWITZ SURVIVOR",
+    "author": "EDDIE JAKU",
+    "coverImage": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9781529066364_16595935160.jpg",
+    "description": "Eddie Looked Evil In The Eye And Met It With Joy And Kindness . . . His Philosophy Is Life-affirming’ – Daily Express Holocaust Survivor Eddie Jaku Made A Vow To Smile Every Day And Believed He Was The ‘happiest Man On Earth’. In His Inspirational Memoir, He Paid Tribute To Those Who Were Lost By Telling His Story And Sharing His Wisdom. Life Can Be Beautiful If You Make It Beautiful. It Is Up To You. Eddie Jaku Always Considered Himself A German First, A Jew Second. He Was Proud Of His Country. But All Of That Changed In November 1938, When He Was Beaten, Arrested And Taken To A Concentration Camp. Over The Next Seven Years, Eddie Faced Unimaginable Horrors Every Day, First In Buchenwald, Then In Auschwitz, Then On A Nazi Death March. He Lost Family, Friends, His Country.The Happiest Man On Earth Is A Powerful, Heartbreaking And Ultimately Hopeful Memoir Of How Happiness Can Be Found Even In The Darkest Of Times. ‘Australia’s Answer To Captain Tom .",
+    "language": "ENGLISH",
+    "category": "Biography",
+    "binding": "PAPERBACK",
+    "isbn13": "9781529066364",
+    "isbn10": "1529066364",
+    "Publisher": "Pan",
+    "publishedDate": "2001-03-20",
+    "Pages": 208,
+    "height": "150 mm",
+    "width": " 130 mm",
+    "mrp": 479,
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Fantastic Read",
+        "author": "John Doe",
+        "rating": 5,
+        "reviewText": "This book was absolutely amazing! The characters were well-developed, and the plot kept me hooked from beginning to end. I highly recommend it."
+      },
+      {
+        "id": 2,
+        "title": "Disappointing",
+        "author": "Jane Smith",
+        "rating": 2,
+        "reviewText": "I had high expectations for this book, but it fell short. The story lacked depth, and the characters felt one-dimensional. Not recommended."
+      },
+      {
+        "id": 3,
+        "title": "A Page-Turner",
+        "author": "Alice Johnson",
+        "rating": 4,
+        "reviewText": "I couldn't put this book down! The suspense and twists kept me on the edge of my seat. A great thriller that I enjoyed immensely."
+      },
+      {
+        "id": 4,
+        "title": "Captivating Story",
+        "author": "Robert Brown",
+        "rating": 4,
+        "reviewText": "This book had a captivating story that kept me engaged throughout. The writing was excellent, and I found myself emotionally invested in the characters."
+      }
+    ]
+  }
+]

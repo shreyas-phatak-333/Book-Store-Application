@@ -1,0 +1,99 @@
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    background-color: #fff; /* Background color for better visibility */
+    margin-bottom: 20px;
+  }
+
+  .card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .card-img-top {
+    object-fit: cover;
+    height: 400px;
+  }
+  
+  .card-text {
+    margin-bottom: 4px !important;
+  }
+
+  .card-text span {
+    font-weight: 500;
+  }
+
+  .mrp {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 8px !important;
+  }
+
+  .add-cart-btn {
+    background: #f7724a;
+    border-color: #f7724a;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 0;
+    float: right;
+    width: 160px;
+  }
+
+  .nav-tabs {
+    margin-top: 20px;
+    border-bottom: 2px solid #f08362; /* Change border color */
+  }
+
+  .nav-item {
+    margin-bottom: -1px;
+    margin-right: 10px;
+  }
+
+  .nav-link {
+    color: #f08362; /* Change text color */
+    background-color: #f8f9fa; /* Change background color */
+    border-bottom: 2px solid #f08362;
+    border-radius: 0;
+    font-weight: 500;
+  }
+
+  .nav-link:hover,
+  .nav-link.active {
+    color: #fff;
+    background-color: #f08362; /* Change background color on hover/active */
+    border-color: #f08362; /* Change border color on hover/active */
+  }
+
+  /* .reviews,
+  .details-table {
+    margin-top: 20px;
+  } */
+
+  .rating-star {
+    color: #fcc73f;
+  }
+
+  .review {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .review p {
+    margin-bottom: 4px !important;
+  }
+
+  .review-author {
+    font-weight: bold;
+    color: #007bff; /* Change author text color */
+  }
+
+  .review-content {
+    color: #495057; /* Change review content text color */
+  }
+
+  /* Added spacing between reviews */
+  .reviews .review:not(:last-child) {
+    margin-bottom: 20px;
+  }

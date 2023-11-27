@@ -1,0 +1,91 @@
+<app-book-search></app-book-search>
+
+<section class="pb-5">
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2">
+            <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a [routerLink]="['/']" (click)="resetSearchFilter()">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Book Details</li>
+              </ol>
+            </nav>
+            <div class="card">
+              <div class="card-body">
+                <div class="row">
+                    <div class="col-4">
+                        <img src="{{book.coverImage}}" class="card-img-top" alt="Book Cover">
+                    </div>
+                    <div class="col-8">
+                        <h5 class="card-title">{{ book.title }}</h5>
+                        <p class="card-text"><span>Author:</span> {{ book.author }}</p>
+                        <p class="card-text"><span>Genre:</span> {{ book.category }}</p>
+                        <p class="card-text"><span>Rating:</span> {{book.ratings}} <i class="bi bi-star-fill rating-star"></i></p>
+                        <h6 class="mrp">MRP: &#8377; {{book.mrp}}</h6>
+                        <p class="card-text"><span>Description:</span> {{ book.description }}</p>
+                        <a class="btn add-cart-btn" (click)="addToCart()"><i class="bi bi-cart-fill"></i> Add to Cart</a>
+                    </div>
+                </div>
+              </div>
+            </div>
+      
+            <ul class="nav nav-tabs" id="myTabs">
+              <li class="nav-item">
+                <a class="nav-link active" id="reviews-tab" data-bs-toggle="tab" href="#reviews">Reviews</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="details-tab" data-bs-toggle="tab" href="#details">Additional Details</a>
+              </li>
+            </ul>
+      
+            <div class="tab-content">
+              <div class="tab-pane fade show active bg-white p-4" id="reviews">
+                <div class="reviews">
+                  <h3>Reviews</h3>
+      
+                  <div class="review" *ngFor="let review of book.reviews">
+                    <p class="review-author">{{review.author}}</p>
+                    <p class="review-ratings"><span>Rating:</span> {{review.rating}} <i class="bi bi-star-fill rating-star"></i></p>
+                    <p class="review-content">{{review.reviewText}}</p>
+                  </div>
+                </div>
+              </div>
+      
+              <div class="tab-pane fade bg-white p-4" id="details">
+                <div class="details-table">
+                  <h3>Additional Details</h3>
+                  <table class="table">
+                    <tbody>
+                      <tr>
+                        <th scope="row">ISBN-13</th>
+                        <td>{{book.isbn13}}</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">ISBN-10</th>
+                        <td>{{book.isbn10}}</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Pages</th>
+                        <td>{{book.Pages}}</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Language</th>
+                        <td>{{book.language}}</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Publisher</th>
+                        <td>{{book.Publisher}}</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Published Date</th>
+                        <td>{{book.publishedDate | date: "mediumDate"}}</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>

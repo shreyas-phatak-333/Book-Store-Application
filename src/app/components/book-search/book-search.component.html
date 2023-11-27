@@ -1,0 +1,15 @@
+<section class="search-section">
+    <div class="container">
+        <div class="row justify-content-center mb-3">
+            <div class="col-6">
+                <input class="form-control search-input" list="datalistOptions" id="exampleDataList" placeholder="search books by title/author" (keyup)="filterBooks($event.target)" >
+                <datalist id="datalistOptions">
+                    <option *ngFor="let book of bookService.searchedBooks;" value="{{book.title}}">
+                </datalist>
+            </div>
+            <div class="col-1">
+                <button class="btn btn-primary" (click)="searchBook()">Search</button>
+            </div>
+        </div>
+    </div>
+</section>

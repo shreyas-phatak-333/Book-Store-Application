@@ -1,0 +1,31 @@
+.card {
+    transition: transform 0.2s;
+    height: 100%;
+    /* box-shadow: 0 4px 8px rgba(0,0,0,0.1); Box shadow for cards */
+  }
+
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .card:hover .view-details-btn {
+    background: #f7724a;
+    color: #ffffff;
+  }
+
+  .card-title {
+    height: 50px;
+  }
+  
+  .card-img-top {
+    height: 280px; /* Decreased height for the card image */
+    object-fit: cover;
+  }
+
+  .view-details-btn {
+    background: #f7724abf;
+    color: #ffffff;
+    font-weight: 500;
+  }
+
